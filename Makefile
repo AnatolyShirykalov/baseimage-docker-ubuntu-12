@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = wwestenbrink/baseimage-ubuntu-12
 VERSION = 0.9.12
 
 .PHONY: all build test tag_latest release ssh

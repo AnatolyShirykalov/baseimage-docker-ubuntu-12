@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER Phusion <info@phusion.nl>
+FROM ubuntu:12.04
+MAINTAINER wwestenbrink <w.westenbrink@gmail.com>
 
 ENV HOME /root
 RUN mkdir /build
